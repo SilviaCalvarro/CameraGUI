@@ -5,7 +5,7 @@ MainWindow thread controls all actions related to buttons on the GUI.
 ImageConfiguration thread realizes changes to the captured image for the porpuse of improving it.
 VideoCapture thread is responsible for maintaining the possibility of image acquisition.
 
-Hereunder I add some images of GUI's aspect:
+Hereunder I add some images of GUI's shape:
 
 ![alt text](https://github.com/SilviaCalvarro/CameraGUI/blob/master/gui1.png)
 
